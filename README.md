@@ -220,4 +220,4 @@ Sakura is offered as a full free version with all features and updates included.
 Take your text editing to the next level with Sakura — the **official free download** for Windows is just a click away!
 
 ---
-**Last updated:** 2026-09-17 00:11:51 UTC
+**Last updated:** 2026-09-17 05:52:20 UTC
